@@ -1,0 +1,36 @@
+{
+	"name": "sample",
+	"description": "sample",
+	"author": {
+		"name": "your name"
+	},
+	"version": "0.0.1",
+	"keywords": ["foo", "bar"],
+	"homepage": "http://xxx",
+	"main": "main.js",
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"repository": {
+		"type": "git"
+		"url": "http://github.com/xxx/xxx.git"
+	},
+	"bugs": {
+		"url": "http://github.com/xxx/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": ""
+		}
+	],
+	"scripts": {
+		"test": "nodeunit xxx.js"
+	},
+	"dependencies": [
+		"xxx": "0.0.1"
+	],
+	"devDependencies": [
+		"xxx": "0.0.1"
+	]
+}
