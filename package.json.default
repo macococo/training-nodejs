@@ -12,7 +12,7 @@
 		"node": ">= 0.8.0"
 	},
 	"repository": {
-		"type": "git"
+		"type": "git",
 		"url": "http://github.com/xxx/xxx.git"
 	},
 	"bugs": {
@@ -27,10 +27,10 @@
 	"scripts": {
 		"test": "nodeunit xxx.js"
 	},
-	"dependencies": [
+	"dependencies": {
 		"xxx": "0.0.1"
-	],
-	"devDependencies": [
+	},
+	"devDependencies": {
 		"xxx": "0.0.1"
-	]
+	}
 }

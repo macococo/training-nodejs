@@ -1,0 +1,11 @@
+{
+	"name": "mysql",
+	"description": "mysql",
+	"author": {
+		"name": "macococo"
+	},
+	"version": "0.0.1",
+	"dependencies": {
+		"mysql": "2.1.0"
+	}
+}
